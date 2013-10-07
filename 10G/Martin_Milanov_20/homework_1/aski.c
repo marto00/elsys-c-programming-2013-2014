@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-	int m;
-	for (m=0; m<=255; m++){
-		printf("%d: %c \n", m, m); 
+	int a;
+	for (a=0; a<=255; a++){
+		printf("%d: %c \n", a, a); 
 	}
 	return 0;
 }
